@@ -1,0 +1,6 @@
+{
+    "releases":[
+        {"id":1,"name":"this is name one","date":"this is a date"},
+        {"id":2,"name":"this is name two","date":"this is a two"}
+    ]
+}

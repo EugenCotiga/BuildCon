@@ -1,0 +1,30 @@
+[
+  {"name":"Contract1", "budget":1000, "budget_spend":300, "number_site":2,
+    "sites":[
+      {"name_site":"Site1", "budget":600, "budget_spend":200,
+        "activities":[
+          {"name":"Kitchen", "people":"Eugen Cotiga", "spend":100},
+          {"name":"Painting", "people":"Ciprian Orasanu", "spend":100}
+        ]},
+      {"name_site":"Site2", "budget":400, "budget_spend":100,
+        "activities":[
+          {"name":"Kitchen", "people":"Ion Popescu", "spend":80},
+          {"name":"Painting", "people":"Praslea Cel Voinic", "spend":20}
+        ]}
+    ]
+  },
+  {"name":"Contract2", "budget":2000, "budget_spend":600, "number_site":2,
+    "sites":[
+      {"name_site":"Site3", "budget":1200, "budget_spend":400,
+        "activities":[
+          {"name":"Kitchen", "people":"Eugen Cotiga", "spend":250},
+          {"Name":"Painting", "people":"Ciprian Orasanu", "spend":150}
+        ]},
+      {"name_site":"Site4", "budget":800, "budget_spend":100,
+        "activities":[
+          {"name":"Kitchen", "people":"Ion Popescu", "spend":80},
+          {"Name":"Painting", "people":"Praslea Cel Voinic", "spend":20}
+        ]}
+    ]
+  }
+]

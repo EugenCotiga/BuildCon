@@ -1,0 +1,26 @@
+.navbar {
+    margin-bottom: 5px;
+    border-bottom-color: red;
+}
+
+.navbar-default{
+    background: none;
+    padding: 0px;
+    border-width: 0px 0px 5px 0px;
+    border-color: #009431;
+    border-radius: 0px;
+}
+
+
+.test {
+    margin-bottom: 5px;
+    color: red;
+}
+
+#logo {
+    height: 50px;
+    margin-left: 5px;
+}
+#navbar {
+    background-color:white;
+}
